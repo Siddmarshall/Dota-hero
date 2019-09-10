@@ -1,0 +1,71 @@
+body{
+	margin: 0;
+	font-size: 20px;
+	line-height: 30px;
+	}
+
+header{
+	background-image: url(../image/pudge-back.jpeg);
+	text-align: center;
+	padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h1,h2{
+	font-family: 'Chilanka', cursive;
+}
+
+header h1 a{
+	color: white;
+	font-family: 'Chilanka', cursive;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 25px solid white;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+main img{
+	max-width: 100%
+}
+h2{
+	font-size: 25px;
+    color: darkgoldenrod;
+    margin: 40px 0 10px;
+}
+
+p{
+	font-size: 20px;
+}
+
+a{
+	color: darkgoldenrod;
+}
+a:hover{
+	color: white;
+	background-color: #17828a ;
+}
+
+
+footer{
+	text-align: center;
+	background-color: darkgoldenrod;
+	padding: 50px;
+	color: white;
+}
+footer p{
+	margin: 0;
+}
+
+p.caption{
+	color: #999999;
+	margin-top: 0;
+	font-style: italic;
+}
