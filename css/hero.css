@@ -31,19 +31,25 @@ main{
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 20px;
+
 }
 main img{
 	max-width: 100%
 }
 h2{
-	font-size: 25px;
+	font-size: 35px;
     color: darkgoldenrod;
     margin: 40px 0 10px;
 }
 
 p{
-	font-size: 20px;
+	font-size: 23px;
 }
+ol{
+	font-size: 23px;
+}
+
+
 
 a{
 	color: darkgoldenrod;
