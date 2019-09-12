@@ -61,6 +61,19 @@ a:hover{
 	color: white;
 	background-color: #17828a ;
 }
+
+li.hook:hover{
+	background-color: #ff0f00;
+	color:  #040404;
+}
+p.caption:hover{
+	background-color: #ff0f00;
+	color:  #040404;
+}
+ol p{
+	margin-top: 0;
+}
+
 /*Footer*/
 
 footer{
@@ -79,16 +92,10 @@ footer p{
 	font-style: italic;
 	text-align: center;
 }
-
 .hook{
 	color:  #ff0f00;
 	font-style: italic;
-}
-li:hover{
-	background-color: #ff0f00;
-	color:  #040404;
-}
-p.caption:hover{
-	background-color: #ff0f00;
-	color:  #040404;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	line-height: 40px;
+	margin-top: 0;
 }
