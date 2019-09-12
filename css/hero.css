@@ -26,6 +26,7 @@ header img{
 	width: 300px;
 	border: 25px solid white;
 }
+/*Main CSS*/
 
 main{
 	max-width: 800px;
@@ -43,12 +44,14 @@ h2{
 }
 
 p{
-	font-size: 23px;
+	font-size: 22px;
 }
 ol{
-	font-size: 23px;
+	font-size: 22px;
 }
-
+ul{
+	font-size: 22px;
+}
 
 
 a{
@@ -58,7 +61,7 @@ a:hover{
 	color: white;
 	background-color: #17828a ;
 }
-
+/*Footer*/
 
 footer{
 	text-align: center;
@@ -70,8 +73,22 @@ footer p{
 	margin: 0;
 }
 
-p.caption{
-	color: #999999;
+.caption{
+	color:  #ff0f00;
 	margin-top: 0;
 	font-style: italic;
+	text-align: center;
+}
+
+.hook{
+	color:  #ff0f00;
+	font-style: italic;
+}
+li:hover{
+	background-color: #ff0f00;
+	color:  #040404;
+}
+p.caption:hover{
+	background-color: #ff0f00;
+	color:  #040404;
 }
