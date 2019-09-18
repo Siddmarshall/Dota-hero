@@ -81,9 +81,11 @@ footer{
 	background-color: darkgoldenrod;
 	padding: 50px;
 	color: white;
+	
 }
 footer p{
 	margin: 0;
+
 }
 
 .caption{
@@ -98,4 +100,14 @@ footer p{
 	font-family: 'Helvetica', 'Arial', sans-serif;
 	line-height: 40px;
 	margin-top: 0;
+}
+.spotlight{
+	margin: 0px auto;
+
+}
+.sizing{
+	margin-bottom: 5px;
+}
+ul.spotlight{
+	margin-bottom: 20px
 }
